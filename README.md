@@ -14,3 +14,15 @@ Questions answered in this report:
 6. Which channel is contributing to maximum sales?
 7. Highest selling category. 
 
+
+Insights shared with the company:
+1. Women are more likely to buy as compared to men.
+2. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states.
+3. Adult age group(30 to 49 yrs) are max contributing.
+4. Amazon, Flipkart and Myntra are max contributing.
+
+Verdict
+
+ABC store should target women customers of age group(30-49 years) licing in Maharashtra, Karnataka and Uttar Pradesh by showing ads, offers, coupons available on 
+Amazon, flipkart and Myntra.
+
